@@ -8,8 +8,6 @@
 ![No sign-up](https://img.shields.io/badge/sign--up-none-3d85c6?style=for-the-badge)
 ![Saved](https://img.shields.io/badge/data-stays%20on%20your%20device-e0802f?style=for-the-badge)
 
-### [✨ Open the planner](https://claude.ai/artifact/P926He9Z3MMke8JTGY3Li9)
-
 *Plan the hours. Build your routines. Watch the bars climb.*
 
 </div>
